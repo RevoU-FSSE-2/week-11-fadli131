@@ -6,7 +6,7 @@ info:
 servers:
   - url: http://localhost:3004
     description: Local server
-  - url : https://fair-gray-hummingbird-hose.cyclic.app
+  - url : https://fair-gray-hummingbird-hose.cyclic.app/api-docs/
     description: Cyclic server
 components:
   securitySchemes:
