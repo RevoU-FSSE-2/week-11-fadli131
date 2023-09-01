@@ -28,7 +28,7 @@ The following is a simple programming flow about ordering menus and ordering men
 - Cyclic
 
 ## FLOWCHART
-<img width="500" alt="Screenshot 2023-07-28 205741" src="https://github.com/RevoU-FSSE-2/week-11-fadli131/assets/109584701/ac75c5f6-dbb4-4ba2-a50a-7cf9ba0e4ca2">
+<img width="550" alt="Screenshot 2023-07-28 205741" src="https://github.com/RevoU-FSSE-2/week-11-fadli131/assets/109584701/8b106a20-8c61-4c1a-b082-12e0bc135f27">
 
 ## Getting Started 
 
