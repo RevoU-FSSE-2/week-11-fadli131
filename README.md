@@ -9,7 +9,7 @@ RESTful API with expressjs, nodejs, and swagger
 👤 **Fadli Aryadinata**
 
 - GitHub: [@fadli131](https://github.com/fadli131)
-- Deployment Link (https://calm-teal-bull-cape.cyclic.app/api-docs/)
+- Deployment Link (https://fair-gray-hummingbird-hose.cyclic.app/api-docs/)
 
 ## Coffee Shop Order & Payment
 
